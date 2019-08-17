@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/a166d697382a6aa9982af87b4544ea67/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cc3f0717a15c9ea448ce9d55c51f111c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/3ed0a47cf9830753bcad896953983126/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/08afcac8a13c77ba4df515effea745f8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/ff1aa782a2f11d793f0262a512341453/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/30f45d2196388e56d380e6eca11a1779/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/b9c335059fb41c263394e8eca98fb50b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cbd749724edf2c8692ecde33da19c9ac/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cfa9f34e5f05b2063e693bcafa6bb306/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/f1a2f79ea0890d94926a92d586aab4fc/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8de4ebea9a0228eca168ee34809f6405/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/6f7a7d77790dceae26678458f8ac81f7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/5b31d017a18c24b2d85f5099c51bded7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cef4fea76e1a2ac2871ce1bb4d6e87f6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/6bd46791e5e2b0d38bb0d0e970c986d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/7a0aa5bb11caa232854c459d673e2c1a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8a2f6dd56b1ea208151097df13129c73/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/a58a98853bc8472da10da118452bb05b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/dfc8552bcfc93e96ddcff51bfdd89b3d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/831a7505ff664e8a08ccc3b79cc1c893/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cd600b5cd830dc8194a0e1abc2412de5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/9112d71d0a06071533f8939438733cc2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/52d0c2f7ea248cf4f44ce089d8545d73/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/66edf5c7029370d9370a5b7a631c3095/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-rc02] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/828c7d8b2e53d0cc812282e5b933b698/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/d24223142dea63f56736eb0fb3e7ed4a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/c9f1c9fbc273df08630f97251eee5d5b/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8fb999f092f6118c072bfee28ba0ea1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/713237bb4f69f6bc5bb7baf601abf2fc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/68d75a971bd71c362133eadb5370926a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/f21765f30bec2729dc95b4766ae8acbc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/80bfcada9c725960bbd3e647068b8d53/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/2fe0e09b482afc2aa9638dae89610070/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/c6b0b0d8f8aa33e0ec840c7185b964d0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:3:5-62
+		INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:4:5-35
+uses-feature#android.hardware.camera
+ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:6:19-57
+uses-permission#android.permission.CAMERA
+ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:8:5-65
+	android:name
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:8:22-62
+application
+ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:10:5-34:19
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/a166d697382a6aa9982af87b4544ea67/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/a166d697382a6aa9982af87b4544ea67/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/3ed0a47cf9830753bcad896953983126/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/3ed0a47cf9830753bcad896953983126/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/ff1aa782a2f11d793f0262a512341453/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/ff1aa782a2f11d793f0262a512341453/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/30f45d2196388e56d380e6eca11a1779/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/30f45d2196388e56d380e6eca11a1779/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cbd749724edf2c8692ecde33da19c9ac/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cbd749724edf2c8692ecde33da19c9ac/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cfa9f34e5f05b2063e693bcafa6bb306/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cfa9f34e5f05b2063e693bcafa6bb306/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/f1a2f79ea0890d94926a92d586aab4fc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/f1a2f79ea0890d94926a92d586aab4fc/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8de4ebea9a0228eca168ee34809f6405/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8de4ebea9a0228eca168ee34809f6405/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0-rc02] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/828c7d8b2e53d0cc812282e5b933b698/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0-rc02] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/828c7d8b2e53d0cc812282e5b933b698/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/c9f1c9fbc273df08630f97251eee5d5b/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/c9f1c9fbc273df08630f97251eee5d5b/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-rc02] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/828c7d8b2e53d0cc812282e5b933b698/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:16:9-37
+	android:label
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:15:9-40
+	android:hardwareAccelerated
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:13:9-43
+	android:fullBackupContent
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:12:9-42
+	android:icon
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:14:9-38
+	android:allowBackup
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:17:9-47
+meta-data#com.google.android.gms.vision.DEPENDENCIES
+ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:18:9-20:35
+	android:value
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:20:13-32
+	android:name
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:19:13-70
+activity#com.google.android.gms.samples.vision.ocrreader.MainActivity
+ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:24:13-56
+	android:name
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:23:13-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:28:27-74
+activity#com.google.android.gms.samples.vision.ocrreader.OcrCaptureActivity
+ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:32:9-33:41
+	android:label
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:33:13-38
+	android:name
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml:32:19-100
+uses-sdk
+INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/a166d697382a6aa9982af87b4544ea67/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha09] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/a166d697382a6aa9982af87b4544ea67/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cc3f0717a15c9ea448ce9d55c51f111c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cc3f0717a15c9ea448ce9d55c51f111c/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/3ed0a47cf9830753bcad896953983126/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:18.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/3ed0a47cf9830753bcad896953983126/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/08afcac8a13c77ba4df515effea745f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/08afcac8a13c77ba4df515effea745f8/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/ff1aa782a2f11d793f0262a512341453/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:18.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/ff1aa782a2f11d793f0262a512341453/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/30f45d2196388e56d380e6eca11a1779/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/30f45d2196388e56d380e6eca11a1779/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/b9c335059fb41c263394e8eca98fb50b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/b9c335059fb41c263394e8eca98fb50b/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cbd749724edf2c8692ecde33da19c9ac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cbd749724edf2c8692ecde33da19c9ac/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cfa9f34e5f05b2063e693bcafa6bb306/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cfa9f34e5f05b2063e693bcafa6bb306/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/f1a2f79ea0890d94926a92d586aab4fc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/f1a2f79ea0890d94926a92d586aab4fc/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8de4ebea9a0228eca168ee34809f6405/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8de4ebea9a0228eca168ee34809f6405/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/6f7a7d77790dceae26678458f8ac81f7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta02] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/6f7a7d77790dceae26678458f8ac81f7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/5b31d017a18c24b2d85f5099c51bded7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/5b31d017a18c24b2d85f5099c51bded7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cef4fea76e1a2ac2871ce1bb4d6e87f6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cef4fea76e1a2ac2871ce1bb4d6e87f6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/6bd46791e5e2b0d38bb0d0e970c986d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/6bd46791e5e2b0d38bb0d0e970c986d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/7a0aa5bb11caa232854c459d673e2c1a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/7a0aa5bb11caa232854c459d673e2c1a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8a2f6dd56b1ea208151097df13129c73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8a2f6dd56b1ea208151097df13129c73/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/a58a98853bc8472da10da118452bb05b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/a58a98853bc8472da10da118452bb05b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/dfc8552bcfc93e96ddcff51bfdd89b3d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/dfc8552bcfc93e96ddcff51bfdd89b3d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/831a7505ff664e8a08ccc3b79cc1c893/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/831a7505ff664e8a08ccc3b79cc1c893/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cd600b5cd830dc8194a0e1abc2412de5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cd600b5cd830dc8194a0e1abc2412de5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/9112d71d0a06071533f8939438733cc2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/9112d71d0a06071533f8939438733cc2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/52d0c2f7ea248cf4f44ce089d8545d73/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/52d0c2f7ea248cf4f44ce089d8545d73/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/66edf5c7029370d9370a5b7a631c3095/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/66edf5c7029370d9370a5b7a631c3095/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-rc02] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/828c7d8b2e53d0cc812282e5b933b698/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0-rc02] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/828c7d8b2e53d0cc812282e5b933b698/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/d24223142dea63f56736eb0fb3e7ed4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/d24223142dea63f56736eb0fb3e7ed4a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/c9f1c9fbc273df08630f97251eee5d5b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/c9f1c9fbc273df08630f97251eee5d5b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8fb999f092f6118c072bfee28ba0ea1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8fb999f092f6118c072bfee28ba0ea1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/713237bb4f69f6bc5bb7baf601abf2fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/713237bb4f69f6bc5bb7baf601abf2fc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/68d75a971bd71c362133eadb5370926a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/68d75a971bd71c362133eadb5370926a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/f21765f30bec2729dc95b4766ae8acbc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/f21765f30bec2729dc95b4766ae8acbc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/80bfcada9c725960bbd3e647068b8d53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/80bfcada9c725960bbd3e647068b8d53/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/2fe0e09b482afc2aa9638dae89610070/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/2fe0e09b482afc2aa9638dae89610070/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/c6b0b0d8f8aa33e0ec840c7185b964d0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/c6b0b0d8f8aa33e0ec840c7185b964d0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		ADDED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cfa9f34e5f05b2063e693bcafa6bb306/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cfa9f34e5f05b2063e693bcafa6bb306/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cfa9f34e5f05b2063e693bcafa6bb306/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/cfa9f34e5f05b2063e693bcafa6bb306/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8de4ebea9a0228eca168ee34809f6405/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8de4ebea9a0228eca168ee34809f6405/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/alexanderchiou/.gradle/caches/transforms-2/files-2.1/8de4ebea9a0228eca168ee34809f6405/AndroidManifest.xml:24:13-58
