@@ -1,4 +1,4 @@
-#Sat Aug 17 12:54:30 PDT 2019
+#Sat Aug 17 15:20:20 PDT 2019
 base.0=/Users/alexanderchiou/AndroidStudioProjects/android-vision/visionSamples/ocr-reader/app/build/intermediates/dex/debug/mergeDexDebug/out
 path.0=classes.dex
 renamed.0=classes.dex

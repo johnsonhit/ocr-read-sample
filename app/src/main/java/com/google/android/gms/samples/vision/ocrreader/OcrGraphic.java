@@ -32,8 +32,6 @@ import java.util.List;
  */
 public class OcrGraphic extends GraphicOverlay.Graphic {
 
-    private int mId;
-
     private static final int TEXT_COLOR = Color.WHITE;
 
     private static Paint sRectPaint;
@@ -59,14 +57,6 @@ public class OcrGraphic extends GraphicOverlay.Graphic {
         }
         // Redraw the overlay, as this graphic has been added.
         postInvalidate();
-    }
-
-    public int getId() {
-        return mId;
-    }
-
-    public void setId(int id) {
-        this.mId = id;
     }
 
     public TextBlock getTextBlock() {

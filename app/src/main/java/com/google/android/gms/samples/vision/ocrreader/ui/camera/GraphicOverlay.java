@@ -148,16 +148,6 @@ public class GraphicOverlay<T extends GraphicOverlay.Graphic> extends View {
     }
 
     /**
-     * Removes a graphic from the overlay.
-     */
-    public void remove(T graphic) {
-        synchronized (mLock) {
-            mGraphics.remove(graphic);
-        }
-        postInvalidate();
-    }
-
-    /**
      * Returns the first graphic, if any, that exists at the provided absolute screen coordinates.
      * These coordinates will be offset by the relative screen position of this view.
      * @return First graphic containing the point, or null if no text is detected.
